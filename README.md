@@ -14,8 +14,11 @@ El servidor responde en la ruta principal (`/`) con un mensaje
    ```sh
    npm install
    ```
-   # Si ni funciona ejecuta  y Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass para permitir temporalmente los scrips y luego lo vuelves a intentar
-
+   # Si ni funciona ejecuta
+   ```sh
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   ```
+   # Esto permite temporalmente los scrips como npm y luego lo vuelves a intentar
 ## Uso
 
 Para iniciar el servidor, ejecuta en la terminal:
@@ -35,4 +38,5 @@ El servidor estará disponible en [http://localhost:3000](http://localhost:3000)
 `package.json`: Archivo de configuración del proyecto y dependencias.
 
 ## Autor Jesus Adrian Gutierrez Herrera
+
 
