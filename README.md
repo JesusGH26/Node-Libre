@@ -4,11 +4,7 @@ Este proyecto es una aplicación básica creada con Node.js y Express. Sirve com
 
 ## Descripción
 
-El servidor responde en la ruta principal (`/`) con el siguiente mensaje:
-
-```
-Jesus Adrian Gutierrez Herrera/ingenieria informatica/Programacion para internet/Cucei
-```
+El servidor responde en la ruta principal (`/`) con un mensaje
 
 ## Instalación
 
@@ -39,3 +35,4 @@ El servidor estará disponible en [http://localhost:3000](http://localhost:3000)
 `package.json`: Archivo de configuración del proyecto y dependencias.
 
 ## Autor Jesus Adrian Gutierrez Herrera
+
