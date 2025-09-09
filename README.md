@@ -34,9 +34,9 @@ node index.js
 El servidor estará disponible en [http://localhost:3000](http://localhost:3000) (o el puerto que definas en la variable de entorno `PORT`).
 
 ## Estructura del proyecto
-- `index.js`: Código principal del servidor Express.
-`package.json`: Archivo de configuración del proyecto y dependencias.
+index.js`: Código principal del servidor Express.
+package.json`: Archivo de configuración del proyecto y dependencias.
 
-## Autor Jesus Adrian Gutierrez Herrera
+
 
 
